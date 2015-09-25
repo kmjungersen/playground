@@ -1,0 +1,16 @@
+{
+  "name": "playground",
+  "version": "0.0.1",
+  "authors": [
+    "kmjungersen <kmjungersen@gmail.com>"
+  ],
+  "main": "main.py",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
